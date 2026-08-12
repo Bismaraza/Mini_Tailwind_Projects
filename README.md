@@ -114,6 +114,8 @@ React
 Vite
 Tailwind CSS
 JavaScript
+
+
 📂 Project Structure
 
 All projects are stored in the same React repository.
@@ -136,28 +138,34 @@ src/
 ├── App.jsx
 ├── main.jsx
 └── index.css
+
+
+
 💻 Run Locally
 
-Clone the repository:
-
+**Clone the repository:
+**
 git clone <your-repository-url>
 
-Move into the project:
-
+**Move into the project:
+**
 cd <project-folder>
 
-Install dependencies:
-
+**Install dependencies:
+**
 npm install
 
-Start the development server:
-
+**Start the development server:
+**
 npm run dev
 
-Build the project:
-
+**Build the project:
+**
 npm run build
-🎯 Tailwind Concepts Practiced
+
+
+**🎯 Tailwind Concepts Practiced
+**
 Utility Classes
 Flexbox
 Grid
@@ -174,8 +182,10 @@ Transitions
 Responsive Breakpoints
 Relative Positioning
 Absolute Positioning
-📚 Learning Goal
 
+
+**📚 Learning Goal
+**
 The purpose of these projects was to strengthen React and Tailwind CSS fundamentals through practical UI development.
 
 The projects helped practice:
