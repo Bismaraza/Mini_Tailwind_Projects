@@ -4,6 +4,8 @@ A collection of React + Tailwind CSS practice projects completed.
 
 ## Live Link: https://tailwindmini.netlify.app/ 
 
+
+
 ## 🚀 Projects
 
 ### 1. Netflix-Inspired Navbar
