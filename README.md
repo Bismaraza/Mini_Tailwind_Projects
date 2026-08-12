@@ -114,4 +114,28 @@ Vite
 Tailwind CSS
 JavaScript
 
+## 📂 Project Structure
+
+All projects are stored in the same React repository.
+
+```text
+src/
+│
+├── assets/
+│   ├── Bisma.png
+│   ├── apartment.jpg
+│   └── other images
+│
+├── components/
+│   ├── Netflix_Navbar.jsx
+│   ├── Youtube_Sidebar.jsx
+│   ├── Linkedin_Card.jsx
+│   ├── Github_User_Card.jsx
+│   ├── Stripe_Pricing.jsx
+│   └── Airbnb_Listing.jsx
+│
+├── App.jsx
+├── main.jsx
+└── index.css
+
 
