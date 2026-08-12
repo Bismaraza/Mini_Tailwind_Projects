@@ -1,6 +1,8 @@
 # Tailwind CSS Practice Projects
 
-A collection of React + Tailwind CSS practice projects completed during Week 3.
+A collection of React + Tailwind CSS practice projects completed.
+
+## Live Link: https://tailwindmini.netlify.app/ 
 
 ## 🚀 Projects
 
