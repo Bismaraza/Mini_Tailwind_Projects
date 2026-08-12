@@ -109,93 +109,9 @@ An Airbnb-inspired property listing card with image, rating, location, amenities
 
 ## 🛠️ Tech Stack
 
-```text
 React
 Vite
 Tailwind CSS
 JavaScript
 
 
-📂 Project Structure
-
-All projects are stored in the same React repository.
-
-src/
-│
-├── assets/
-│   ├── Bisma.png
-│   ├── apartment.jpg
-│   └── other images
-│
-├── components/
-│   ├── Netflix_Navbar.jsx
-│   ├── Youtube_Sidebar.jsx
-│   ├── Linkedin_Card.jsx
-│   ├── Github_User_Card.jsx
-│   ├── Stripe_Pricing.jsx
-│   └── Airbnb_Listing.jsx
-│
-├── App.jsx
-├── main.jsx
-└── index.css
-
-
-
-💻 Run Locally
-
-**Clone the repository:
-**
-git clone <your-repository-url>
-
-**Move into the project:
-**
-cd <project-folder>
-
-**Install dependencies:
-**
-npm install
-
-**Start the development server:
-**
-npm run dev
-
-**Build the project:
-**
-npm run build
-
-
-**🎯 Tailwind Concepts Practiced
-**
-Utility Classes
-Flexbox
-Grid
-Spacing
-Sizing
-Typography
-Background Colors
-Text Colors
-Borders
-Border Radius
-Shadows
-Hover States
-Transitions
-Responsive Breakpoints
-Relative Positioning
-Absolute Positioning
-
-
-**📚 Learning Goal
-**
-The purpose of these projects was to strengthen React and Tailwind CSS fundamentals through practical UI development.
-
-The projects helped practice:
-
-React Components
-        ↓
-Tailwind Utility Classes
-        ↓
-Responsive Layouts
-        ↓
-Reusable UI Patterns
-        ↓
-Interactive Styling
